@@ -1,5 +1,5 @@
 # Project Starter 
-A starter repo for building CUNY Tech Prep projects with React, Express.js, and Sequelize.js
+A starter repo for building a CUNY Tech Prep projects with React, Express.js, and Sequelize.js
 
 ## Stack
 
